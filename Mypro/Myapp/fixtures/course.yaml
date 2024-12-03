@@ -1,0 +1,24 @@
+- model: Myapp.course
+  pk: 'C001'
+  fields:
+    name: 'DStoolbox'
+
+- model: Myapp.course
+  pk: 'C002'
+  fields:
+    name: 'Project management'
+
+- model: Myapp.course
+  pk: 'C003'
+  fields:
+    name: 'Java Programming'
+
+- model: Myapp.course
+  pk: 'C004'
+  fields:
+    name: 'Webdev'
+
+- model: Myapp.course
+  pk: 'C005'
+  fields:
+    name: 'EDA'
